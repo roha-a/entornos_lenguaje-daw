@@ -1,1 +1,38 @@
-# entornos_lenguaje-daw
+# Repositorio DAW - Entornos de Desarrollo y Lenguaje de Marcas
+
+Este repositorio contiene el material del curso **1º DAW (Desarrollo de Aplicaciones Web)** para los módulos:
+
+- Entornos de Desarrollo
+- Lenguaje de Marcas
+
+## Integrantes del proyecto
+
+- Roha Magdaleno
+- Ivan Vázquez
+- Borja Osoro
+
+## Estructura del repositorio
+
+### Entornos de Desarrollo
+
+Contiene teoría, prácticas realizadas durante el curso y el software utilizado para este proyecto.
+
+- Teoría de los temas
+- Esquemas de los temas
+- Prácticas del módulo divididas por unidades
+- Herramientas utilizadas
+
+### Lenguaje de Marcas
+
+Material relacionado con HTML, CSS, XML, DTD, XSD y otras tecnologías vistas durante el curso.
+
+## Tecnologías utilizadas
+
+- Git
+- GitHub
+- Visual Studio Code
+- Markdown
+
+## Objetivo del repositorio
+
+Organizar y documentar el trabajo realizado durante el curso utilizando control de versiones con **Git y GitHub**.
