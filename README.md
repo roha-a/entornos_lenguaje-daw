@@ -15,16 +15,21 @@ Este repositorio contiene el material del curso **1º DAW (Desarrollo de Aplicac
 
 ### Entornos de Desarrollo
 
-Contiene teoría, prácticas realizadas durante el curso y el software utilizado para este proyecto.
+Contiene teoría, prácticas realizadas durante el curso y el software utilizado para este proyecto:
 
-- Teoría de los temas
-- Esquemas de los temas
+- Teoría del temario
+- Esquemas del temario
 - Prácticas del módulo divididas por unidades
 - Herramientas utilizadas
 
 ### Lenguaje de Marcas
 
-Material relacionado con HTML, CSS, XML, DTD, XSD y otras tecnologías vistas durante el curso.
+Material relacionado con HTML, CSS, XML, DTD, XSD y otras tecnologías vistas durante el curso:
+
+- Teoría del temario
+- Esquemas del temario
+- Ejercicios realizados de las diferentes áreas que vimos durante el curso
+- Código fuente de dichos ejercicios
 
 ## Tecnologías utilizadas
 
