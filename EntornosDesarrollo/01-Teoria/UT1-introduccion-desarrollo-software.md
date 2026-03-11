@@ -1,97 +1,97 @@
-📘 UT1 – Introducción al Desarrollo del Software
-1. Software y programa
-Programa
+# 📘 UT1 – Introducción al Desarrollo del Software
+## 1. Software y programa
+### Programa
 
-Un programa es un conjunto de instrucciones escritas en un lenguaje de programación que un ordenador puede ejecutar para realizar una tarea específica.
+Un programa es un **conjunto de instrucciones** escritas en un **lenguaje de programación** que un ordenador puede ejecutar para realizar una tarea específica.
 
-Software
+### Software
 
-El software es el conjunto de programas, datos y documentación que permiten el funcionamiento de un sistema informático.
+El software es el **conjunto de programas, datos y documentación** que permiten el funcionamiento de un sistema informático.
 
-2. Tipos de software
-Software de sistema
+## 2. Tipos de software
+### Software de sistema
 
-Permite el funcionamiento del ordenador y la gestión del hardware.
-
-Ejemplos:
-
-Sistemas operativos
-
-Controladores de dispositivos
-
-Software de aplicación
-
-Programas diseñados para que el usuario realice tareas concretas.
+*Permite el funcionamiento del ordenador y la gestión del hardware:*
 
 Ejemplos:
 
-Navegadores web
+- Sistemas operativos
 
-Procesadores de texto
+- Controladores de dispositivos
 
-Aplicaciones móviles
+- Software de aplicación
 
-Software de desarrollo
-
-Herramientas utilizadas por los programadores para crear software.
+*Programas diseñados para que el usuario realice tareas concretas.*
 
 Ejemplos:
 
-IDE
+- Navegadores web
 
-Compiladores
+- Procesadores de texto
 
-Depuradores
+- Aplicaciones móviles
 
-3. Relación hardware – software
+- Software de desarrollo
 
-El hardware es la parte física del ordenador, mientras que el software son los programas que permiten utilizar ese hardware.
+*Herramientas utilizadas por los programadores para crear software:*
+
+Ejemplos:
+
+- IDE
+
+- Compiladores
+
+- Depuradores
+
+## 3. Relación hardware – software
+
+El **hardware** es la parte física del ordenador, mientras que el **software** son los programas que permiten utilizar ese hardware.
 
 Ambos trabajan juntos:
 
-El hardware ejecuta las instrucciones
+- El hardware ejecuta las instrucciones
 
-El software indica qué debe hacer el hardware
+- El software indica qué debe hacer el hardware
 
-Sin software, el hardware no puede realizar tareas útiles.
+- Sin software, el hardware no puede realizar tareas útiles.
 
-4. Desarrollo de software
+## 4. Desarrollo de software
 
-El desarrollo de software consiste en el proceso de crear aplicaciones o sistemas informáticos mediante el uso de lenguajes de programación y herramientas de desarrollo.
+El desarrollo de software consiste en el **proceso de crear aplicaciones o sistemas informáticos** mediante el uso de lenguajes de programación y herramientas de desarrollo.
 
 Este proceso incluye varias fases que permiten organizar el trabajo y garantizar la calidad del software.
 
-5. Lenguajes de programación
+## 5. Lenguajes de programación
 
 Un lenguaje de programación es un lenguaje formal que permite escribir instrucciones para que un ordenador ejecute tareas.
 
 Tipos de lenguajes:
 
-Lenguajes de bajo nivel
+*Lenguajes de bajo nivel*
 
 Están más cerca del hardware.
 
 Ejemplo:
 
-Lenguaje ensamblador
+- Lenguaje ensamblador
 
-Lenguajes de alto nivel
+*Lenguajes de alto nivel*
 
-Son más fáciles de entender para los programadores.
+Son más **fáciles de entender** para los programadores.
 
 Ejemplos:
 
-Java
+- Java
 
-Python
+- Python
 
-JavaScript
+- JavaScript
 
-C#
+- C#
 
-6. Fases del desarrollo del software
+## 6. Fases del desarrollo del software
 
-El desarrollo de software suele seguir un ciclo de vida formado por varias etapas:
+El desarrollo de software suele seguir un ciclo de vida formado por **varias etapas:**
 
 1. Análisis
 
