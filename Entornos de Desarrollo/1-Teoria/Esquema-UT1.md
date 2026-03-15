@@ -1,33 +1,33 @@
 # Esquema — UT1 Introducción al Desarrollo del Software
 
 ## 1. Software y programa
-Concepto de software
+### Concepto de software
 
-Conjunto de programas que permiten usar el hardware.
+**Conjunto de programas** que permiten usar el hardware.
 
-Tipos de software
+### Tipos de software
 
-Sistema operativo
+- Sistema operativo
 
 Gestiona el hardware.
 
 Ej: Windows, Linux.
 
-Software de programación
+- Software de programación
 
 Herramientas para crear programas.
 
-Aplicaciones
+- Aplicaciones
 
 Programas para el usuario (Word, Excel, videojuegos).
 
-Programa
+- Programa
 
 Conjunto de instrucciones escritas en un lenguaje de programación. 
 
-UT1 INTRODUCCIÓN AL DESARROLLO …
 
-2. Relación hardware-software
+
+## 2. Relación hardware-software
 
 Hardware: componentes físicos del ordenador.
 
@@ -41,31 +41,31 @@ Traducción del código
 
 Los lenguajes de programación deben traducirse a código binario (0 y 1) para que el ordenador los entienda. 
 
-UT1 INTRODUCCIÓN AL DESARROLLO …
 
-3. Desarrollo de software
-3.1 Ciclo de vida del software (SDLC)
+
+## 3. Desarrollo de software
+### 3.1 Ciclo de vida del software (SDLC)
 
 Proceso desde la idea hasta el software funcionando.
 
 Modelos clásicos
-1. Modelo en cascada
+*1. Modelo en cascada*
 
 Fases secuenciales.
 
 No se pasa a la siguiente fase hasta terminar la anterior.
 
-Ventajas
+**Ventajas**
 
-Fácil de entender.
+- Fácil de entender.
 
-Buena planificación.
+- Buena planificación.
 
-Desventajas
+- Desventajas
 
-Poco flexible.
+- Poco flexible.
 
-2. Modelos evolutivos
+*2. Modelos evolutivos*
 Modelo incremental
 
 Desarrollo en partes o incrementos.
@@ -75,201 +75,201 @@ Modelo en espiral
 Iteraciones + análisis de riesgos.
 
 Modelos modernos
-Modelo Ágil (Agile)
+*Modelo Ágil (Agile)*
 
-Entregas rápidas.
+- Entregas rápidas.
 
-Adaptación a cambios.
+- Adaptación a cambios.
 
-Colaboración con el cliente.
+- Colaboración con el cliente.
 
-Scrum
+*Scrum*
 
 Trabajo en sprints de 2-4 semanas.
 
 Roles:
 
-Product Owner
+- Product Owner
 
-Scrum Master
+- Scrum Master
 
-Equipo de desarrollo. 
+- Equipo de desarrollo. 
 
-UT1 INTRODUCCIÓN AL DESARROLLO …
 
-4. Herramientas de apoyo al desarrollo
-Herramientas CASE
+
+## 4. Herramientas de apoyo al desarrollo
+### Herramientas CASE
 
 Software que ayuda a:
 
-Planificar
+- Planificar
 
-Diseñar
+- Diseñar
 
-Documentar
+- Documentar
 
-Mantener software.
+- Mantener software.
 
-Componentes
+- Componentes
 
-Modeladores
+- Modeladores
 
-Repositorios
+- Repositorios
 
-Generadores de código
+- Generadores de código
 
-Herramientas de prueba
+- Herramientas de prueba
 
-Control de versiones
+- Control de versiones
 
-Clasificación
+**Clasificación**
 
-U-CASE: planificación y análisis.
+*U-CASE: planificación y análisis.*
 
-M-CASE: análisis y diseño.
+*M-CASE: análisis y diseño.*
 
-L-CASE: implementación y pruebas. 
+*L-CASE: implementación y pruebas.*
 
-UT1 INTRODUCCIÓN AL DESARROLLO …
 
-5. Lenguajes de programación
+
+## 5. Lenguajes de programación
 Concepto
 
 Idioma artificial con reglas para crear programas.
 
-Clasificación
+**Clasificación**
 1. Por generación
 
-Lenguaje máquina
+- Lenguaje máquina
 
-Ensamblador
+- Ensamblador
 
-Alto nivel (C, Java, Python)
+- Alto nivel (C, Java, Python)
 
-Muy alto nivel (SQL, MATLAB)
+- Muy alto nivel (SQL, MATLAB)
 
 2. Por ámbito de aplicación
 
-Web
+- Web
 
-Científico
+- Científico
 
-Sistemas
+- Sistemas
 
-Bases de datos
+- Bases de datos
 
-Scripting
+- Scripting
 
-Sistemas embebidos
+- Sistemas embebidos
 
 3. Por tipado
 
-Estático: C, Java.
+- Estático: C, Java.
 
-Dinámico: Python, JavaScript.
+- Dinámico: Python, JavaScript.
 
 4. Por paradigma
 
-Imperativo
+- Imperativo
 
-Orientado a objetos
+- Orientado a objetos
 
-Funcional
+- Funcional
 
-Lógico
+- Lógico
 
-Basado en eventos
+- Basado en eventos
 
-Concurrente. 
+- Concurrente. 
 
-UT1 INTRODUCCIÓN AL DESARROLLO …
 
-6. Fases del desarrollo del software
 
-Análisis
+## 6. Fases del desarrollo del software
 
-Definir requisitos.
+- Análisis
 
-Diseño
+- Definir requisitos.
 
-Dividir el sistema en partes.
+- Diseño
 
-Codificación
+- Dividir el sistema en partes.
 
-Programar.
+- Codificación
 
-Pruebas
+- Programar.
 
-Detectar errores.
+- Pruebas
 
-Documentación
+- Detectar errores.
 
-Crear guías técnicas y de uso.
+- Documentación
 
-Explotación
+- Crear guías técnicas y de uso.
 
-Instalación en el sistema del cliente.
+- Explotación
 
-Mantenimiento
+- Instalación en el sistema del cliente.
 
-Actualizaciones y correcciones. 
+- Mantenimiento
 
-UT1 INTRODUCCIÓN AL DESARROLLO …
+- Actualizaciones y correcciones. 
 
-7. Tipos de código
 
-Código fuente
 
-Código escrito por el programador.
+## 7. Tipos de código
 
-Código objeto
+- Código fuente
 
-Resultado de compilar el código fuente.
+*Código escrito por el programador.*
 
-Código ejecutable
+- Código objeto
 
-Archivo final que ejecuta el sistema operativo. 
+*Resultado de compilar el código fuente.*
 
-UT1 INTRODUCCIÓN AL DESARROLLO …
+- Código ejecutable
 
-8. Máquinas virtuales
+*Archivo final que ejecuta el sistema operativo.*
+
+
+
+## 8. Máquinas virtuales
 
 Software que permite ejecutar programas independientemente del hardware.
 
 Funciones:
 
-Portabilidad.
+- Portabilidad.
 
-Gestión de memoria.
+- Gestión de memoria.
 
-Seguridad.
+- Seguridad.
 
-Comunicación con el sistema.
+- Comunicación con el sistema.
 
-Ejemplo:
+*Ejemplo:*
 
 JRE (Java Runtime Environment) para ejecutar aplicaciones Java. 
 
-UT1 INTRODUCCIÓN AL DESARROLLO …
 
-9. Pruebas
 
-Tipos principales:
+## 9. Pruebas
 
-Pruebas unitarias
+**Tipos principales:**
 
-Pruebas de integración
+- Pruebas unitarias
 
-Beta testing. 
+- Pruebas de integración
 
-UT1 INTRODUCCIÓN AL DESARROLLO …
+- Beta testing. 
 
-10. Documentación
 
-Tipos:
 
-Guía técnica
+## 10. Documentación
 
-Guía de uso
+**Tipos:**
 
-Guía de instalación.
+- Guía técnica
+
+- Guía de uso
+
+- Guía de instalación.
